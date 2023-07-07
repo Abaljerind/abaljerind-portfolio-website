@@ -1,3 +1,5 @@
+<!-- TODO: ubah bahasa dari inggris ke indonesia -->
+
 # Website - Portfolio pribadi
 
 ## Daftar isi
